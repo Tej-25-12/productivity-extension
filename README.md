@@ -22,3 +22,7 @@ Another important part of the task is using Git and GitHub. Git is a version con
 The purpose of this task is not only to build a working chat app but also to show professional skills. It shows knowledge of frontend tools like React, backend tools like Node.js and Express, real-time communication with WebSocket, and database integration with MongoDB. It also shows the ability to use GitHub properly, handle conflicts, and write clean documentation. These are all skills that companies look for in developers.
 From a user’s point of view, the app is simple and easy to use. They can open the app, type a message, and see it appear instantly in another user’s window. From a developer’s point of view, the app shows how different parts of a system work together: the client, the server, and the database. It also shows how to manage code and share it online.
 In short, this task is about building a real-world project that is technically sound and professionally presented. It proves the ability to create something useful, solve problems, and work with modern web technologies. The Real-Time Chat Application is a strong example of practical learning and can be used to show skills during internship reviews or job applications.
+
+## OUTPUT-
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fbdd406f-7ca3-4e67-bd02-8b0d765ea695" />
